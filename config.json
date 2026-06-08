@@ -1,3 +1,4 @@
 {
-  backend: "https://localhost"
+  backend: "https://localhost",
+  debug: true
 }
