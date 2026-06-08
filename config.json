@@ -2,6 +2,7 @@
   "appName": "Overdrive+",
   "apiVersion": "8.8.8",
   "developer": "mfinity168",
+  "featureStatus": "trial",
   "backend": {
     "url": "https://localhost"
   },
