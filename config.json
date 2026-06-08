@@ -1,4 +1,6 @@
 {
-  backend: "https://localhost",
-  debug: true
+  "Developer": "mfinity168",
+  "active": true
+  "backend": "https://localhost",
+  "debug": true
 }
