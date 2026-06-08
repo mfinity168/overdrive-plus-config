@@ -1,7 +1,7 @@
 {
-  "App name": "Overdrive+",
-  "api_version": "8.8.8",
-  "Developer": "mfinity168",
+  "appName": "Overdrive+",
+  "apiVersion": "8.8.8",
+  "developer": "mfinity168",
   "backend": {
     "url": "https://localhost"
   },
