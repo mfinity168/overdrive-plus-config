@@ -3,6 +3,7 @@
   "apiVersion": "8.8.8",
   "developer": "mfinity168",
   "featureStatus": "trial",
+  "supportMeUrl": "https://mfinitydev.com/support",
   "backend": {
     "url": "https://localhost"
   },
