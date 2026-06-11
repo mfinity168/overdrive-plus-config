@@ -5,7 +5,7 @@
   "featureStatus": "trial",
   "supportMeUrl": "https://mfinitydev.com/support-test",
   "backend": {
-    "url": "https://localhost"
+    "url": "https://xyz.supabase.com"
   },
   "debug": false
 }
